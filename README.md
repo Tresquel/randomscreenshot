@@ -3,8 +3,6 @@ Literally only a button which when you click it displays a random screenshot fro
 
 do whatever you want with the code its literally 23 lines of html and js idrc
 
-for some reason github pages doesnt wanna work with it xD
-
 # Why?
 I was bored
 
